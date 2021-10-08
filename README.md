@@ -3,7 +3,7 @@
 ## Instructions
 You should be able to get any needed packages with this. I used python3.9 for this but you can probably get this to work with any python >= 3.5
 ```
-$> python3.9 pip install -r requirments.txt
+$> python3.9 -m pip install -r requirments.txt
 ```
 Then you can run a short demo I created
 ```
